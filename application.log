@@ -1,16 +1,16 @@
-2019-08-23 16:00:37,111  INFO [main] LoginPageTest:23 - ****************************** Starting test cases execution  *****************************************
-2019-08-23 16:00:37,113  INFO [main] LoginPageTest:24 - entering application URL
-2019-08-23 16:00:37,113  WARN [main] LoginPageTest:25 - Hey this just a warning message
-2019-08-23 16:00:37,113 FATAL [main] LoginPageTest:26 - hey this is just fatal error message
-2019-08-23 16:00:37,113 DEBUG [main] LoginPageTest:27 - this is debug message
-2019-08-23 16:00:37,113  INFO [main] TestBase:39 - BaseClass entering application URL
-2019-08-23 16:00:47,930 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2019-08-23 16:00:47,931 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2019-08-23 16:00:47,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-08-23 16:00:47,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-08-23 16:00:47,934 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/AC37118/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2019-08-23 16:00:48,164 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2019-08-23 16:00:48,164 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2019-08-23 16:00:48,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-08-23 16:00:48,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-08-23 16:00:48,165 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/AC37118/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-04 10:47:17,156  INFO [main] LoginPageTest:26 - ****************************** Starting test cases execution  *****************************************
+2019-09-04 10:47:17,163  INFO [main] LoginPageTest:27 - entering application URL
+2019-09-04 10:47:17,164  WARN [main] LoginPageTest:28 - Hey this just a warning message
+2019-09-04 10:47:17,164 FATAL [main] LoginPageTest:29 - hey this is just fatal error message
+2019-09-04 10:47:17,165 DEBUG [main] LoginPageTest:30 - this is debug message
+2019-09-04 10:47:17,165  INFO [main] TestBase:39 - BaseClass entering application URL
+2019-09-04 10:47:47,829 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-04 10:47:47,831 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-04 10:47:47,833 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-04 10:47:47,834 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-04 10:47:47,834 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/AC37118/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-04 10:47:48,388 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-04 10:47:48,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-04 10:47:48,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-04 10:47:48,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-04 10:47:48,390 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/AC37118/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

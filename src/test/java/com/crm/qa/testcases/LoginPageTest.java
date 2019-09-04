@@ -10,6 +10,9 @@ import org.apache.log4j.Logger;
 import com.crm.qa.base.TestBase;
 import com.crm.qa.pages.LoginPage;
 
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
+
 
 public class LoginPageTest extends TestBase{
 	LoginPage loginpage;
@@ -29,7 +32,10 @@ public class LoginPageTest extends TestBase{
 		 loginpage=new LoginPage();
 	}
 	
-	@Test
+	@Test(description = "Validating Login Page Title")
+	@Severity(SeverityLevel.NORMAL)
+
+	
 	public void loginPageTitle() {
 		String title=loginpage.validateLoginPage();
 		System.out.println(title);

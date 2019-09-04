@@ -6,6 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.crm.qa.base.TestBase;
 
+import io.qameta.allure.Step;
+
 public class LoginPage extends TestBase{
 	
 	//pageFatcory - Object Repository 
@@ -25,7 +27,7 @@ public class LoginPage extends TestBase{
 		//all the current class objects will be initialized by using page Factory method (this - current class object or LoginPage.class)0
 		PageFactory.initElements(driver, this);
 	}
-	
+	@Step("get page Title ")
 	public String validateLoginPage() {
 		return driver.getTitle();
 	}
